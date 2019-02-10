@@ -3,3 +3,7 @@ Application
 
 # old vala files
 *.vala~
+
+# build folder
+
+build
